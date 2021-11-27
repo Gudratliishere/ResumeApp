@@ -1,0 +1,16 @@
+.mydiv{
+    margin-top: 10px;
+    border-style: ridge;
+    padding: 10px 10px;
+}
+
+.myform{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.formbutton{
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}

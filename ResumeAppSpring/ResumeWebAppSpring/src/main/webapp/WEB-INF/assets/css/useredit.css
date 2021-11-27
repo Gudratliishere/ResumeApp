@@ -1,0 +1,63 @@
+body
+{
+    background-color: #3498db;
+    font-family: sans-serif;
+}
+
+form
+{
+    width: 70%;
+    display: inline-grid;
+    padding: 0 12%;
+}
+
+input, textarea
+{
+    margin: 5px 0;
+    padding: 7px;
+    border: 2px solid gold;
+    border-radius: 25px;
+}
+
+input:focus, textarea:focus
+{
+    margin: 5px 0;
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+
+.skill
+{
+    width: 80%;
+}
+
+button
+{
+    margin: 10px 0;
+    padding: 10px;
+    border: 2px solid #2ecc71;
+    border-radius: 25px;
+}
+
+button:hover
+{
+    margin: 10px 0;
+    padding: 10px;
+    border: 2px solid #2ecc71;
+    border-radius: 25px;
+    background-color: #2ecc71;
+}
+
+select
+{
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid aqua;
+    border-radius: 25px;
+}
+
+.error
+{
+    color: red;
+}
